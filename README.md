@@ -39,7 +39,7 @@
 ## 命令
 
 注意:  
-若想在聊天环境中使用管命令，请确保安装了 [Chat-Command](https://github.com/project-mirai/chat-command) 插件  
+若想在聊天环境中使用管命令，请确保安装了[Chat-Command](https://github.com/project-mirai/chat-command) 插件  
 
 命令均应以 `/timerRequester <子命令> [参数...]`或使用缩写别名 `/tr <子命令> [参数...]` 。  
 
