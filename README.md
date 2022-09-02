@@ -26,16 +26,20 @@
 
 ## 一般使用方法
 
-添加请求:
+添加请求:  
+
 ![add](Pictures/add.png)
 
-查询请求:
+查询请求:  
+
 ![query](Pictures/view.png)
 
-停用&启用请求:
+停用&启用请求:  
+
 ![stop&start](Pictures/stop&start.png)
 
-删除请求:
+删除请求:  
+
 ![remove](Pictures/remove.png)
 
 ## 命令
@@ -100,7 +104,9 @@
 
 注意:  
 除**不带任何参数**的`list`命令外，其余命令均无法在控制台使用。
-`[]`的参数表示可选，`<>`的参数表示必选
+`[]`的参数表示可选，`<>`的参数表示必选  
+
+![admin](Pictures/admin1.png)
 
 ## 插件配置
 
@@ -214,3 +220,7 @@ cancelMessage: 已取消本次添加！
 ## 声明
 
 本开源插件仅为个人使用而编写，遵循`Apache Licence2.0`开源协议，发布至 [MiraiForum](https://mirai.mamoe.net/) ，禁止用于任何违法法律法规、社区规定、网站规则的行为，若出现问题本人概不负责。
+
+## qwq
+本项目的实现参考了其他大佬的插件的代码（比如定时器和匹配触发器之类的）  
+如果有bug的话可以回复或者提issue
