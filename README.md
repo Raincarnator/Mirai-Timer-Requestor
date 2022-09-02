@@ -4,6 +4,7 @@
 
 ### [Github Project](https://github.com/Mitr-yuzr/Mirai-Timer-Requestor)  
 ### [Release](https://github.com/Mitr-yuzr/Mirai-Timer-Requestor/releases/tag/1.0)
+### [MiraiForum](https://mirai.mamoe.net/topic/1571/timerrequestor-%E7%94%A8%E4%BA%8E%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0-%E6%89%93%E5%8D%A1%E7%AD%89%E5%8A%9F%E8%83%BD%E7%9A%84%E5%AE%9A%E6%97%B6%E8%87%AA%E5%8A%A8get%E8%AF%B7%E6%B1%82%E6%8F%92%E4%BB%B6)
 
 ## 功能
 
